@@ -29,7 +29,11 @@ This project provides a comprehensive end-to-end analysis of BlinkIT's retail pe
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Blinkit.png)
+<h2>Dashboard Preview</h2>
+
+<p align="center">
+  <img src="images/dashboard.png" width="1000">
+</p>
 
 ---
 
