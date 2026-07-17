@@ -32,7 +32,7 @@ This project provides a comprehensive end-to-end analysis of BlinkIT's retail pe
 <h2>Dashboard Preview</h2>
 
 <p align="center">
-  <img src="images/dashboard.png" width="1000">
+  <img src="images/Screenshot 2026-07-13 122203.png" width="1000">
 </p>
 
 ---
