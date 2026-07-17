@@ -42,3 +42,5 @@ This project provides a comprehensive end-to-end analysis of BlinkIT's retail pe
 
 ## 📬 Contact
 Created by **[Ujjal Mondal]** | Feel free to reach out for any data-related collaborations!
+
+LinkedIn:[(https://www.linkedin.com/in/ujjalmondalanalyst/)](https://www.linkedin.com/in/ujjalmondalanalyst/)
