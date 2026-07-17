@@ -29,7 +29,7 @@ This project provides a comprehensive end-to-end analysis of BlinkIT's retail pe
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Screenshot 2026-07-13 122203.png)
+![Dashboard](Blinkit.png)
 
 ---
 
